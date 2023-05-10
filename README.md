@@ -1,5 +1,3 @@
-# Checkpoint 2 Coding for Security
-
 # FIAP - 2° Checkpoint - Conding for Security - DataShield
 
 ## **Introduction**
@@ -55,42 +53,36 @@ cd CP2---Coding-for-Security---PT-BR
 ```
 
 ### **Step 3 - Run the command below to open the Python program**
-
 ```
 python3 escolha.py
 
 ```
 
 ### **Step 4 - Write the quantity of numbers you want to see**
-
 [https://camo.githubusercontent.com/9727b52e65d75667eaa0308856c15469ac6c4dd31f45fd38b552def4304ff803/68747470733a2f2f692e6962622e636f2f4a437335394a332f636f642e706e67](https://camo.githubusercontent.com/9727b52e65d75667eaa0308856c15469ac6c4dd31f45fd38b552def4304ff803/68747470733a2f2f692e6962622e636f2f4a437335394a332f636f642e706e67)
 
 ## Youtube
-
 [Link para o Youtube](https://www.youtube.com/watch?v=wFsU3rTPcH8&ab_channel=PedroAugusto)
 
 ## **Algorithm performance evaluation dashboard**
-
 All proposed algorithms were submitted to ten exhaustive tests, with the results being recorded for later analysis of the list delivery level.
 
 ### **Environment**
 
 Operating System: Windows 10
-
 Processor: Intel Pentium G4560 3.5Ghz
-
 RAM: 16GB
-
 SSD: 128GB
 
 ### **Results**
-
 Based on the results, the performance of the Quick Sort algorithm, which is ahead of the other two, is notorious.
 
 The evidence follows:
 
 Evidence 01
 
-![https://github.com/MatheusRosa800/CP2---CodingForSecurity---PT-BR/raw/main/evidencia-1.png](https://github.com/MatheusRosa800/CP2---CodingForSecurity---PT-BR/raw/main/evidencia-1.png)
+![Imagem do programa](https://github.com/MatheusRosa800/CP2---CodingForSecurity---PT-BR/blob/main/evidencia-1.png)
 
 Evidence 02
+
+![Imagem do programa](https://github.com/MatheusRosa800/CP2---CodingForSecurity---PT-BR/blob/main/evidencia-2.png)
