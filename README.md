@@ -1,76 +1,96 @@
+# Checkpoint 2 Coding for Security
+
 # FIAP - 2° Checkpoint - Conding for Security - DataShield
 
-## Repositório em EN-US
-[Link para o GitHub](https://github.com/MatheusRosa800/CP2---CodingForSecurity---EN-US)
+## **Introduction**
 
-## Introdução
-Checkpoint realizado com o intuito de colocar em prática todos os conhecimentos manipulação de listas e estruturas de repetição adquiridos na matéria de Conding for Security, ministrada pelo [Professor Fábio Cabrini](https://www.linkedin.com/in/fabio-cabrini/).
+**Checkpoint carried out with the aim of putting into practice all the knowledge of manipulation of lists structures and repetition acquired in the subject of Conding for Security, taught by Professor Fábio Cabrini.**
 
-## Participantes
+## **Participants**
+
 - Eduardo dos Santos
 - Jorge Gabriel
 - Matheus Rosa
 - Pedro Augusto
 
-## Desafio
-O desafio consiste criar um programa capaz de ler um arquivo de senhas e gerar uma lista de 1000 dados. A partir dessa lista, realizaremos a organização em ordem crescente utilizando algoritmos de mercado, tais como o ***Selection Sort***, ***Bubble Sort*** e ***Quick Sort***. Nosso objetivo final é avaliar a eficiência de cada algoritmo e identificar qual deles apresenta a maior velocidade de resposta.
+## Challenge
 
-## O que são algoritmos de ordenação?
-Algoritmo de ordenação, em ciência da computação, é um algoritmo que coloca os elementos de uma dada sequência em uma certa ordem. Em outras palavras efetua sua ordenação completa ou parcial. O objetivo da ordenação é facilitar a recuperação dos dados de uma lista.
+The challenge is to create a program capable of reading a password file and generating a list of 1000 pieces of data. From this list, we will organize them in ascending order using market algorithms, such as **Selection Sort, Bubble Sort and Quick Sort.** Our ultimate goal is to evaluate the efficiency of each algorithm and identify which one has the highest response speed.
+
+## **What are sorting algorithms?**
+
+**Sorting algorithm, in computer science, is an algorithm that places the elements of a given sequence in a certain order. In other words, it performs its complete or partial sorting. The purpose of sorting is to make it easier to retrieve data from a list.**
 
 ### Bubble Sort
-O Bubble Sort é um algoritmo simples de ordenação que funciona percorrendo um vetor várias vezes. A cada iteração, ele compara o elemento atual com o elemento seguinte, e, caso esteja em uma ordem incorreta, troca de posição com o elemento seguinte.
 
-O processo continua até que não haja mais trocas a serem realizadas, o que indica que a lista está ordenada.
-
-Em nossos resultados esse algoritmo se mostrou o menos eficiente devido a quantidade de iteração dos elementos.
+**Bubble Sort is a simple sorting algorithm that works by traversing an array multiple times. At each iteration, it compares the current element with the next element, and, if it is in an incorrect order, swaps its position with the next element.
+The process continues until there are no more swaps to perform, which indicates that the list is sorted.
+In our results, this algorithm proved to be the least efficient due to the amount of iteration of the elements.**
 
 ### Selection Sort
-O Selection Sort é um algoritmo de ordenação simples que percorre um vetor de dados várias vezes, a cada passagem selecionando o menor elemento e colocando-o na posição correta. Ele funciona selecionando o menor elemento de uma lista e trocando-o com o primeiro elemento da lista. Em seguida, ele seleciona o segundo menor elemento e o troca com o segundo elemento da lista, e assim por diante, até que a lista esteja completamente ordenada.
+
+Selection Sort is a simple sorting algorithm that runs through an array of data multiple times, each pass selecting the smallest element and placing it in the correct position. It works by selecting the smallest element in a list and swapping it with the first element in the list. It then selects the second smallest element and swaps it with the second element in the list, and so on, until the list is completely sorted.
 
 ### Quick Sort
-O Quick Sort é um algoritmo de ordenação que utiliza o conceito de divisão e conquista para ordenar um conjunto de elementos. O algoritmo é conhecido por ser rápido e eficiente em relação a outros algoritmos de ordenação, especialmente para conjuntos de dados grandes.
 
-O Quick Sort funciona dividindo o conjunto de dados em duas partes menores, de acordo com um elemento escolhido como pivô. Todos os elementos menores que o pivô são colocados à esquerda do pivô, e os elementos maiores são colocados à direita do pivô. Em seguida, o algoritmo é aplicado recursivamente a cada uma das partes menores, até que o conjunto esteja completamente ordenado.
+Quick Sort is a sorting algorithm that uses the concept of divide and conquer to sort a set of elements. The algorithm is known to be fast and efficient compared to other sorting algorithms, especially for large datasets.
 
-A escolha do pivô é um fator crítico para a eficiência do algoritmo. O pivô ideal é o elemento mediano do conjunto, mas na prática é difícil encontrá-lo. Uma estratégia comum é escolher o primeiro ou o último elemento do conjunto como pivô, ou escolher um elemento aleatório.
+Quick Sort works by dividing the data set into two smaller parts, according to an element chosen as a pivot. All elements smaller than the pivot are placed to the left of the pivot, and elements larger are placed to the right of the pivot. Then the algorithm is applied recursively to each of the smaller parts, until the set is completely sorted.
 
-Com base nas evidências (encontradas logo abaixo) esse algortimo é o mais eficiente
-## Passo a passo para executar o programa
+The choice of pivot is a critical factor for the efficiency of the algorithm. The ideal pivot is the middle element of the set, but in practice it is difficult to find it. A common strategy is to choose the first or last element of the set as the pivot, or to choose a random element.
+Based on the evidence (found below) this algorithm is the most efficient
 
-### 1° Passo - Abrir o terminal
+## **Step by step to run the program**
 
-### 2° Passo - Obter o projeto do github
-Para obter os arquivos digite o comando: 
+### **Step 1 - Open the terminal**
+
+### **Step 2 - Get the project from github**
+
+To get the files type the command:
+
 ```
 git clone https://github.com/MatheusRosa800/CP2---Coding-for-Security---PT-BR.git
 cd CP2---Coding-for-Security---PT-BR
+
 ```
-### 3° Passo - Execute o comando abaixo para abrir o programa Python
+
+### **Step 3 - Run the command below to open the Python program**
+
 ```
 python3 escolha.py
+
 ```
-### 4° Passo - Escreva a quantidade de números que deseja ver
-![Imagem do programa](https://i.ibb.co/JCs59J3/cod.png)
+
+### **Step 4 - Write the quantity of numbers you want to see**
+
+[https://camo.githubusercontent.com/9727b52e65d75667eaa0308856c15469ac6c4dd31f45fd38b552def4304ff803/68747470733a2f2f692e6962622e636f2f4a437335394a332f636f642e706e67](https://camo.githubusercontent.com/9727b52e65d75667eaa0308856c15469ac6c4dd31f45fd38b552def4304ff803/68747470733a2f2f692e6962622e636f2f4a437335394a332f636f642e706e67)
+
 ## Youtube
+
 [Link para o Youtube](https://www.youtube.com/watch?v=wFsU3rTPcH8&ab_channel=PedroAugusto)
 
-## Dashboard de avaliação de performance dos algoritmos
-Todos os algoritmos propostos foram submetidos a dez testes exaustivos, com os resultados sendo registrados para posterior análise do nível de entrega da lista.
+## **Algorithm performance evaluation dashboard**
 
-### Ambiente
-Sistema operacional: Windows 10
-Processador: Intel Pentium G4560 3.5Ghz
-Memória ram: 16GB
+All proposed algorithms were submitted to ten exhaustive tests, with the results being recorded for later analysis of the list delivery level.
+
+### **Environment**
+
+Operating System: Windows 10
+
+Processor: Intel Pentium G4560 3.5Ghz
+
+RAM: 16GB
+
 SSD: 128GB
 
-### Resultados
-Com base nos resultados, é notório a performance do algoritmo ***Quick Sort*** que está a frente dos outros dois.
+### **Results**
 
-Seguem as evidências:
+Based on the results, the performance of the Quick Sort algorithm, which is ahead of the other two, is notorious.
 
-Evidência 01
-![Imagem do programa](https://github.com/MatheusRosa800/CP2---CodingForSecurity---PT-BR/blob/main/evidencia-1.png)
+The evidence follows:
 
-Evidência 02
-![Imagem do programa](https://github.com/MatheusRosa800/CP2---CodingForSecurity---PT-BR/blob/main/evidencia-2.png)
+Evidence 01
+
+![https://github.com/MatheusRosa800/CP2---CodingForSecurity---PT-BR/raw/main/evidencia-1.png](https://github.com/MatheusRosa800/CP2---CodingForSecurity---PT-BR/raw/main/evidencia-1.png)
+
+Evidence 02
