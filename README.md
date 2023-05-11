@@ -1,10 +1,10 @@
 # FIAP - 2° Checkpoint - Conding for Security - DataShield
 
 ## Repository in PT-BR
-[Link para o GitHub](https://github.com/MatheusRosa800/CP2---CodingForSecurity---PT-BR)
+[Link to the GitHub](https://github.com/MatheusRosa800/CP2---CodingForSecurity---PT-BR)
 
 ## Introduction
-Checkpoint carried out with the aim of putting into practice all the knowledge of manipulation of lists structures and repetition acquired in the subject of Conding for Security, taught by Professor Fábio Cabrini.(https://www.linkedin.com/in/fabio-cabrini/).
+Checkpoint carried out with the aim of putting into practice all the knowledge of manipulation of lists structures and repetition acquired in the subject of Conding for Security, taught by [Professor Fábio Cabrini](https://www.linkedin.com/in/fabio-cabrini/).
 
 ## Participants
 - Eduardo dos Santos
@@ -44,21 +44,25 @@ Based on the evidence (found below) this algorithm is the most efficient
 ### Step 2 - Get the project from github
 To get the files type the command:
 ```
-git clone https://github.com/MatheusRosa800/CP2---Coding-for-Security---PT-BR.git
-cd CP2---Coding-for-Security---PT-BR
+git clone https://github.com/MatheusRosa800/CP2---Coding-for-Security---EN-US.git
+cd CP2---Coding-for-Security---EN-US
 ```
-
-### Step 3 - Run the command below to open the Python program
+### Step 3 - Install the libraries
+```
+pip install plotly
+```
+```
+pip install pandas
+```
+### Step 4 - Run the command below to open the Python program
 ```
 python3 escolha.py
-
 ```
-
-### Step 4 - Write the quantity of numbers you want to see
+### Step 5 - Choose an option
 ![Imagem do programa](https://i.ibb.co/JCs59J3/cod.png)
 
 ## Youtube
-[Link para o Youtube](https://www.youtube.com/watch?v=wFsU3rTPcH8&ab_channel=PedroAugusto)
+[Link to the Youtube](https://www.youtube.com/watch?v=LkSP2HUoYfM&ab_channel=PedroAugusto)
 
 ## Algorithm performance evaluation dashboard
 All proposed algorithms were submitted to ten exhaustive tests, with the results being recorded for later analysis of the list delivery level.
